@@ -1,2 +1,10 @@
+# IDE
 .idea
+
+# Node
 node_modules/
+npm-debug.log
+
+# Webpack
+bundle.js
+bundle.js.map
