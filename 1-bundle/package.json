@@ -11,6 +11,11 @@
     "dev": "webpack entry.js bundle.js -d",
     "build": "webpack entry.js bundle.js -p"
   },
-  "author": "Kevin Herklotz",
-  "license": "WTFPL"
+  "author": "Kevin Herklotz, k9ordon",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://KevinHerklotz@github.com/KevinHerklotz/webpack-demo.git"
+  },
+  "homepage": "https://github.com/KevinHerklotz/webpack-demo"
 }
