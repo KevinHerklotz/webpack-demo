@@ -1,0 +1,16 @@
+{
+  "name": "webpack-demo-1",
+  "version": "1.0.0",
+  "description": "simple bundle example",
+  "main": "entry.js",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^1.13.0"
+  },
+  "scripts": {
+    "dev": "webpack entry.js bundle.js -d",
+    "build": "webpack entry.js bundle.js -p"
+  },
+  "author": "Kevin Herklotz",
+  "license": "WTFPL"
+}
