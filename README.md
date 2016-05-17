@@ -2,13 +2,11 @@
 
 - [Node.js](https://nodejs.org)
 
-## Run examples 
+# Run examples 
 
 You can go into each folder and run `npm install` to install the dependencies.
 
-In every of these folders you can run `npm run build` to generate the necessary files, which names always begin with *bundle*...
+In every of these folders you can run `npm run dev` to generate the necessary files.
+After doing this you will see the result when you open the html files in the directory.
 
-After you did that just open the *index.html* to see the result.
-
-### 1. Simple bundle
-
+How it works is explained in the PDF of the lecture.
