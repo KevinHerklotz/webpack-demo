@@ -1,11 +1,12 @@
 {
-  "name": "webpack-demo-3-config-file",
+  "name": "webpack-demo-4-plugins",
   "version": "1.0.0",
-  "description": "simple config file example",
+  "description": "simple plugin example",
   "main": "entry.js",
   "dependencies": {},
   "devDependencies": {
     "css-loader": "^0.23.1",
+    "html-webpack-plugin": "^2.17.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.0"
   },

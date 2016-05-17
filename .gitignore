@@ -8,3 +8,4 @@ npm-debug.log
 # Webpack
 bundle.js
 bundle.js.map
+demo.html
