@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo-6-hot-mode",
+  "version": "1.0.0",
+  "description": "hot mode example",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "scripts": {
+    "dev": "NODE_ENV=development webpack-dev-server --hot --inline",
+    "build": "NODE_ENV=production webpack"
+  },
+  "author": "Kevin Herklotz, k9ordon",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://KevinHerklotz@github.com/KevinHerklotz/webpack-demo.git"
+  },
+  "homepage": "https://github.com/KevinHerklotz/webpack-demo"
+}
